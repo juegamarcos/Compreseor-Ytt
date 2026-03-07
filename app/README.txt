@@ -1,1 +1,0 @@
-A custom-built compressor in beta for the community to re-upload files to mobile devices. It aggressively optimizes size by 10% to 15% and cleans redundant data to ensure full compatibility and smooth performance on all smartphones
